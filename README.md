@@ -1,2 +1,6 @@
 # PROYECT_SPRINT7
-PROYECTO SPRINT 7 APP
+Analisis de precios de autos
+
+Esta app sirve para analisar precios de autos y algunas caracteristicas que influyen en su precio, como millaje, marca, año entre otros.
+
+Funciones:
